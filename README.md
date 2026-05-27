@@ -1,1 +1,2 @@
 # Nitinol_Engine_Experiment_Data
+这是镍钛合金发动机的原始数据汇总仓库。操作流程：视频上传至tracker，追踪完毕后生成data，放入origin进行处理，最后ppt形式呈现。视频文件太大而未上传。
